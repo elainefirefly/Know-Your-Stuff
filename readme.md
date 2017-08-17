@@ -2,7 +2,7 @@
 
 #### Game Mechanics
 
-* Run in console:
+* Run in terminal:
 ```ruby
 ruby main.rb
 ```
