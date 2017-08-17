@@ -7,10 +7,12 @@
 ruby main.rb
 ```
 * Type a username and see your stats  
-![PCP 1](https://media.giphy.com/media/tkXeuJnAM7YqY/giphy.gif)  
+  
+  ![PCP 1](https://media.giphy.com/media/tkXeuJnAM7YqY/giphy.gif)  
 
-* Choose a category and level of difficulty
-![PCP 1](https://media.giphy.com/media/KjDgMc8IEBvvG/giphy.gif)  
+* Choose a category and level of difficulty  
+  
+  ![PCP 1](https://media.giphy.com/media/KjDgMc8IEBvvG/giphy.gif)  
 
 5. You will be given 10 questions based on your selection
 6. Your objective is to get the longest streak of correct answers
