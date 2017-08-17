@@ -7,7 +7,7 @@
 ruby main.rb
 ```
 2. Type a username
-![PCP 1](username.mp4)
+![PCP 1](https://media.giphy.com/media/tkXeuJnAM7YqY/giphy.gif)
 3. Choose a category
 4. Choose the level of difficulty
 5. You will be given 10 questions based on your selection
