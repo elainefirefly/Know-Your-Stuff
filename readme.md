@@ -2,14 +2,16 @@
 
 #### Game Mechanics
 
-1. Run in console:
+* Run in console:
 ```ruby
 ruby main.rb
 ```
-2. Type a username
-![PCP 1](https://media.giphy.com/media/tkXeuJnAM7YqY/giphy.gif)
-3. Choose a category
-4. Choose the level of difficulty
+* Type a username and see your stats  
+![PCP 1](https://media.giphy.com/media/tkXeuJnAM7YqY/giphy.gif)  
+
+* Choose a category and level of difficulty
+![PCP 1](https://media.giphy.com/media/KjDgMc8IEBvvG/giphy.gif)  
+
 5. You will be given 10 questions based on your selection
 6. Your objective is to get the longest streak of correct answers
 7. If you answer wrong, you are back to zero
