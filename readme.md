@@ -22,11 +22,17 @@ ruby main.rb
   
   ![PCP 1](https://media.giphy.com/media/x6Oew4Wt5tcPK/giphy.gif)  
   
-* Once you finish the 10 questions, your current streak will be saved
-9. You will be asked if you want to continue with your streak
-10. If you choose yes, you will be presented with the next 10 questions.
-11. If not, your game will be paused for when you're up for it again.
-12. In this game, **you are competing against your personal best.**
+* Once you finish the 10 questions, your current streak will be saved  
+  
+  ![PCP 1](https://media.giphy.com/media/DMgxHiQbdQ6JO/giphy.gif)  
+  
+* You will be asked if you want to continue with your streak  
+  
+  ![PCP 1](https://media.giphy.com/media/RDzPLXElGCABG/giphy.gif)  
+ 
+* In this game, **you are competing against your personal best.**  
+  
+  ![PCP 1](https://media.giphy.com/media/3nSbWqSLvAw0g/giphy.gif)
 
 #### Known Issues
 1. The prompts have weird characters at times, but this is due to the trivia database
